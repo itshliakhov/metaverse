@@ -1,5 +1,5 @@
 
-# 📊 Responsive landing page "Metaverse" 
+# 💫  Responsive landing page "Metaverse" 
 ### *https://itshliakhov.github.io/metaverse/*
 **🖥 Technologies I used:**  
 * Next JS
