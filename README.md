@@ -1,14 +1,14 @@
 
-# 💫  Responsive landing page "Metaverse" 
+# 💫  Metaverse | Modern Next 13 Website With Framer Motion & Tailwind CSS
 ### *https://itshliakhov.github.io/metaverse/*
-**🖥 Technologies I used:**  
+**🛠 Technologies I used:**  
 * Next JS
 * React JS
 * Framer Motion
 * TailwindCSS
 
 
-**📋 Project features:**
+**🧰 Project features:**
 * Fully Responsive
 * Modern UI/UX
 * Animations and gradients
