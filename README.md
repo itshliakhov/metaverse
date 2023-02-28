@@ -2,10 +2,11 @@
 # 💫  Metaverse | Modern Next 13 Website With Framer Motion & Tailwind CSS
 ### *https://itshliakhov.github.io/metaverse/*
 **🛠 Technologies I used:**  
-* Next JS
-* React JS
-* Framer Motion
+* React.js
 * TailwindCSS
+* Next.js 13
+* Framer Motion
+
 
 
 **🧰 Project features:**
